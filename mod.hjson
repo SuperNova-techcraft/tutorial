@@ -1,0 +1,8 @@
+name: "tutorial"
+displayName: "tutorial"
+author: SuperNova
+description: "welcome to this tutorial"
+version: "1.0"
+minGameVersion: "158.1"
+dependencies: [ ]
+hidden: false
