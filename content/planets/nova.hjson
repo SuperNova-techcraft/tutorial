@@ -182,7 +182,6 @@ minZoom: 0.5
 showRtsAIRule: true
 prebuildBase: false
 clearSectorOnLose: true
-defaultCore: Core
 enemyCoreSpawnReplace: false
 updateLighting: false
 
