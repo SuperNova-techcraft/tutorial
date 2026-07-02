@@ -176,8 +176,8 @@ tidalLock: true
 drawOrbit: true
 orbitRadius: 70
 orbitSpacing: 1
-radius: 11.8
-minZoom: 0.5
+radius: 1.8
+minZoom: 1
 
 showRtsAIRule: true
 prebuildBase: false
