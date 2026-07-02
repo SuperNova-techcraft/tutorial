@@ -168,13 +168,13 @@ campaignRuleDefaults: {
 atmosphereRadIn: 0
 atmosphereRadOut: 0.3
 startSector: 0
-sectorSize: 5
+sectorSize: 1
 sectorSeed: 14513
 parent: sun
 solarSystem: sun
 tidalLock: true
 drawOrbit: true
-orbitRadius: 70
+orbitRadius: 50
 orbitSpacing: 1
 radius: 1.8
 minZoom: 1
